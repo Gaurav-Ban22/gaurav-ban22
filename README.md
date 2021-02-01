@@ -6,6 +6,6 @@ I love coding and developing games. Some of my work is in private repos, and som
 Gaming is definitely poggers. I love to play video games such as Minecraft, and I'm a nintendo enthusiast.
 I made my profile picture! Pixel art is great!
 
-Check out my profile! I have some cool repos there, are there are more to come!
+Check out my profile! I have some cool repos there, and there are more to come!
 
 Thanks!
