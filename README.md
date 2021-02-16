@@ -8,4 +8,7 @@ I made my profile picture! Pixel art is great!
 
 Check out my profile! I have some cool repos there, and there are more to come!
 
+
 Thanks!
+
+P.S. By the way, please do not share any of my work without crediting me. (Specifically for the mc mods and plugins)
