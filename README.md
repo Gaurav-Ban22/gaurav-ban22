@@ -11,4 +11,4 @@ Check out my profile! I have some cool repos there, and there are more to come!
 
 Thanks!
 
-P.S. By the way, please do not share any of my work without crediting me andasking me first. (Specifically for the mc mods and plugins)
+P.S. By the way, please do not share any of my work without crediting me and asking me first. (Specifically for the mc mods and plugins)
