@@ -8,6 +8,8 @@ I made my profile picture! Pixel art is great!
 
 Unity is my main tool for gamedev, one of my passions. If you ask me which engine is best I will immediately respond with Unity.
 
+I am also a proud Ubuntu user.
+
 Check out my profile! I have some cool repos there, and there are more to come!
 
 
