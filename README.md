@@ -2,6 +2,10 @@
 
 I'm a hacker, gamer, and pixelartist.
 
+I am hopefully a good programmer who loves to code and learn new concepts (new langs and libraries and stuff lmao)
+
+dark mode is best
+
 I love coding and developing games. A lot of my work is in private repos.
 
 Unity is my main tool for gamedev, one of my passions. If you ask me which engine is best I will immediately respond with Unity.
