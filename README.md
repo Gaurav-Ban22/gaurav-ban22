@@ -1,6 +1,6 @@
 ### Hey, I'm Gaurav!
 
-call me tcp because I'm reliable
+call me TCP because I'm reliable
 
 I like making stuff! 
 
